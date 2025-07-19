@@ -77,11 +77,11 @@
 
 ---
 
-## 🐍 GitHub Contributions Snake
+<!--## 🐍 GitHub Contributions Snake
 
 <!--<p align="center">
   <img src="https://github.com/Brijanshu07/Brijanshu07/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>-->
+</p>
 
 <p align="center">
   <picture>
@@ -93,6 +93,6 @@
 
 
 ---
-
+-->
 ![visitors](https://komarev.com/ghpvc/?username=Brijanshu07&color=brightgreen)
 
